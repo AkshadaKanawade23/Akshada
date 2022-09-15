@@ -9,11 +9,11 @@ public class WhileDemo {
 			int j=1;
 			while(j<=10)
 			{
-				System.out.println(i+ "*" +j+"="+i*j );
+				System.out.println(i+ "*" +j+"="+i*+j);
 				j++;
 		    }
 		 System.out.println();
-		i++;
+		 i++;
 	    }
 		
 		System.out.println("End of the Loop");
