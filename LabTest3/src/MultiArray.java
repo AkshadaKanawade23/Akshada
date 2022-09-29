@@ -1,3 +1,6 @@
+/*Matrix.java
+3. WAP a multiply two matrices(two dimensional array) and save result in a third matrix.
+   write a method to print resultant array.*/
 
 public class MultiArray {
 	

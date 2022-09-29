@@ -1,3 +1,6 @@
+/*lternate.java
+2.Create two arrays of ints . Add alternate elements of first array to the second array.
+Write a method to print addittion of values stored a array.*/
 
 public class Calculator {
 

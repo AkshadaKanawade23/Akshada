@@ -1,3 +1,8 @@
+/*Proejct name : LabTest3
+
+Calculator.java
+1.WAP to create  a calculator for int and double using varargs. four methods--addition(),subtraction(),multiplication(),didvision().*/
+
 public class Alternate {
 	public static int[] Alter(int arr[])
     {
